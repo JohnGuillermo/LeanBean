@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LeanBean</string>
+    <string name="title_activity_main">Lean Bean</string>
+    <string name="title_activity_exercise">ExerciseActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="listExercise">Exercises</string>
+    <string name="listCal">Calories Per Hour</string>
+</resources>
