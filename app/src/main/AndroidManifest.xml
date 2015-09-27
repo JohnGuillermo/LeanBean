@@ -20,6 +20,26 @@
             android:name=".ExerciseActivity"
             android:label="@string/title_activity_exercise" >
         </activity>
+        <activity
+            android:name=".WeightActivity"
+            android:label="@string/title_activity_weight" >
+        </activity>
+        <activity
+            android:name=".FoodActivity"
+            android:label="@string/title_activity_food" >
+        </activity>
+        <activity
+            android:name=".ProgressActivity"
+            android:label="@string/title_activity_progress" >
+        </activity>
+        <activity
+            android:name=".CreditActivity"
+            android:label="@string/title_activity_credit" >
+        </activity>
+        <activity
+            android:name=".ProfileActivity"
+            android:label="@string/title_activity_profile" >
+        </activity>
     </application>
 
 </manifest>
